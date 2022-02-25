@@ -1,0 +1,145 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A plain and uninterested reflection upon the present case of the East-India Company under its following circumstances, viz.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1698</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A54967</idno>
+            <idno type="STC">Wing P2344A</idno>
+            <idno type="STC">ESTC R217902</idno>
+            <idno type="EEBO-CITATION">99829545</idno>
+            <idno type="PROQUEST">99829545</idno>
+            <idno type="VID">33985</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A54967)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 33985)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1997:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A plain and uninterested reflection upon the present case of the East-India Company under its following circumstances, viz.</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1698]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing.</note>
+                  <note>Docket title printed on verso reads: One plain reflection upon the case of the East-India Company.</note>
+                  <note>Reproduction of the original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>East India Company --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-11</date>
+            <label>Kate Allen</label>Sampled and proofread</change>
+         <change>
+            <date>2013-11</date>
+            <label>Kate Allen</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:33985:1" rendition="simple:additions"/>
+            <head>A Plain and Unintereſted Reflection Upon the preſent CASE OF THE <hi>Eaſt-India COMPANY,</hi> Under its following Circumſtances, <hi>Viz.</hi>
+            </head>
+            <p n="1">I. — OF having been eſtabliſhed and ſupported by an Uninterrupted Series of <hi>Royal Charters</hi> of <hi>Incorporation,</hi> from Queen <hi>Elizabeth,</hi> and her Princely <hi>Succeſſors,</hi> down to thoſe of his preſent Majeſty; from whom, and from her late Majeſty Q. <hi>Mary</hi> of bleſſed Memory, it received Confirmation, by like <hi>Charters,</hi> in <hi>October</hi> and <hi>November,</hi> 1693, for 21 Years then to come; Whereof more then 16 reſt yet unexpired.</p>
+            <p n="2">II. — Of having had, in Vertue of theſe their Majeſties laſt <hi>Charters,</hi> few leſs than 800 New <hi>Adventurers,</hi> incorporated into it; but not without 740000 <hi>l.</hi> firſt Subſcribed, towards the enlarging of its <hi>Stock,</hi> and rendring the <hi>Trade</hi> of it, more extenſive, and more beneficial to the Nation.</p>
+            <p n="3">III. — Of having, notwithſtanding theſe <hi>Grants,</hi> and though in manifeſt Diminution of their <hi>Rights</hi> thereby, and to the known prejudice of its <hi>Trade,</hi> ſubmitted with all Alacrity, to a later <hi>Charter</hi> of <hi>Regulations</hi> in 1694, by which it is in particular made diſſolvible upon its appearing to the King, <hi>not to be profitable to him, or this his Realm;</hi> but yet not till <hi>after</hi> three <hi>Years Warning firſt given it, under his Privy Seal or Sign Manual.</hi>
+            </p>
+            <p n="4">IV. — Of the Unſpeakable <hi>Charge,</hi> it has undergone in Purchaſing the <hi>Freehold</hi> of divers <hi>Forts, Factories, Buildings,</hi> and <hi>Lands</hi> in <hi>India,</hi> for the neceſſary Carrying on of its <hi>Trade;</hi> beſides other immenſe Sums, in fortifying, building on, and Accommodating to its Service, the Iſlands of <hi>Bombay</hi> and St. <hi>Helena,</hi> both inveſted by the <hi>Crown</hi> in the ſaid <hi>Company,</hi> as its perpetual <hi>Inheritance.</hi>
+            </p>
+            <p n="5">V. — Of its like extraordinary and Unavoidable Charge, in the Purchaſe and For<g ref="char:EOLhyphen"/>tifying of its <hi>Forts</hi> on the <hi>Weſt Coaſt</hi> of <hi>Sumatra,</hi> and <hi>Coaſt</hi> of <hi>Mallabar,</hi> for the preſerva<g ref="char:EOLhyphen"/>tion of its <hi>Pepper-Trade;</hi> as that without which, the ſame muſt have been expoſed to an obvious hazard of being loſt to the <hi>Nation.</hi>
+            </p>
+            <p n="6">VI. — Of its having (beſides the <hi>Publick Benefits,</hi> otherwiſe ariſing from theſe its <hi>Expences,</hi> to the <hi>Nation</hi>'s <hi>Trade</hi> there) acquired to its ſelf a <hi>Standing Income</hi> of <hi>Rents</hi> and other <hi>Duties,</hi> to more than 40000 <hi>l. per Annum;</hi> and that Yearly encreaſing.</p>
+            <p n="7">VII.— Of having, beſides its forementioned 740000 <hi>l. Subſcription-Mony,</hi> paid up<g ref="char:EOLhyphen"/>wards of 85000 <hi>l.</hi> to the <hi>Crown</hi> for its <hi>Stock,</hi> during the late <hi>War,</hi> over and above its Pro<g ref="char:EOLhyphen"/>portion for the preſent Year; and 295000 <hi>l.</hi> more for <hi>Cuſtoms,</hi> ſince the <hi>Date</hi> of that <hi>Subſcription.</hi>
+            </p>
+            <p n="8">VIII. — Of its having, notwithſtanding and beſides all theſe <hi>Burthens</hi> and <hi>Payments,</hi> and particularly that of its <hi>Cuſtoms</hi> towards the ſecurity of its <hi>Trade;</hi> undergone within the five Years of its preſent <hi>Charter,</hi> the yet more heavy Calamity of loſing 12 Ships, to the <hi>Value</hi> of above a <hi>Million</hi> of <hi>Pounds Sterling</hi> more.</p>
+            <pb facs="tcp:33985:2" rendition="simple:additions"/>
+            <p n="9">IX. — Of having from theſe its loſſes, joyned to its other <hi>Charges,</hi> been neceſſitated (for preſerving the Remainder of its Unhappy <hi>Stock,</hi> and ſupporting of its <hi>Trade</hi>) not only to the making further <hi>Advances</hi> of its own, but taking up Conſiderable <hi>Sums</hi> elſewhere at <hi>Intereſt,</hi> for which both it and its ſaid <hi>Stock,</hi> ſtand at this day anſwerable.</p>
+            <p n="10">X. — Laſtly; Of finding it ſelf no ſooner brought within View of enjoying its Share at leaſt, with the reſt of his <hi>Majeſties Trading Subjects,</hi> in the benefits of <hi>PEACE;</hi> after ſo great an Over-proportion of Sufferings, from the Calamities of the <hi>WAR;</hi> but that, without the leaſt Default aſſign'd for it on the part of the <hi>Company,</hi> or regard ſhewn to the Proviſion even in that Caſe made by his <hi>Majeſty</hi> himſelf, in the three Years <hi>Warning: A Project</hi> has been concerted by Perſons (<hi>Merchants</hi> and <hi>Others</hi>) not intereſt<g ref="char:EOLhyphen"/>ed in the ſaid <hi>Company,</hi> for the utter Supplanting it, and gaining to themſelves, exclu<g ref="char:EOLhyphen"/>ſive of all Others, an immediate Propriety in its <hi>Trade</hi> by <hi>Act</hi> of <hi>Parliament;</hi> in plain Derogation of his <hi>Majeſties Charters;</hi> to the manifeſt Oppreſſion of the preſent <hi>Company,</hi> the much greater part of whoſe preſent <hi>Members,</hi> have not to this day (from the many forementioned <hi>Charges</hi> and <hi>Loſſes</hi>) touched one <hi>Penny</hi> of clear <hi>Profit,</hi> from the day of their <hi>Subſcription;</hi> and to the Obvious Ruin of Thouſands of Others, intereſted with them in the ſame.</p>
+            <p>In which their ſo Unaccountable Enterprize, ſhould theſe <hi>Gentlemen,</hi> by the Strength of what they have without any or at moſt with little Adventure, been gathering from the <hi>Publick,</hi> ſucceed; to the ſpoiling the <hi>Company,</hi> of the little which this <hi>Accumulation</hi> of Evils in the Service of the <hi>Publick</hi> has left it, of the <hi>Trade</hi> it has ſo dearly paid for the ſole <hi>Title</hi> to: It ſeems worthy of every ingenuous Dealer's Reflection: <hi>Viz.</hi>
+            </p>
+         </div>
+         <div type="conclusion">
+            <head>REFLECTION:</head>
+            <p>
+               <hi>What degree of</hi> Oppreſſion, Circumvention, <hi>or</hi> Violence <hi>to</hi> Publick Faith <hi>it can be thought to be; that theſe</hi> Gentlemen <hi>can ever pretend to find fault with: When (as none will now think it impoſſible) another</hi> Juncture <hi>may ariſe, wherein</hi> Themſelves, <hi>under the beſt Securities either of</hi> Right <hi>or</hi> Merit, <hi>may be attacked with the ſame</hi> Irreſiſtable Argument <hi>they now glory, in being able to over-bear the preſent</hi> Com<g ref="char:EOLhyphen"/>pany <hi>with?</hi>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="docket_title">
+            <p>One Plain REFLECTION Upon the Caſe of the <hi>Eaſt-India</hi> Company.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
